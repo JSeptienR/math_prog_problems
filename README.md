@@ -1,2 +1,2 @@
-# project_euler
-A collection of solutions to problems from Project Euler
+# math_programming_problems
+A collection of solutions to math and programming problems
